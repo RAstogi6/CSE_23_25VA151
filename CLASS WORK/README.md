@@ -1,2 +1,6 @@
-# CSE_23_25VA151
-This is my git repository for college project. 
+Name : Puneet Rastogi 
+section : CSE 23 
+WEB DESIGNING LAB WORK 
+THIS REPO IS CONTANING LAB WORK OF CLASS 
+
+ 
