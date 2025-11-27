@@ -1,6 +1,4 @@
-Name : Puneet Rastogi 
-section : CSE 23 
-WEB DESIGNING LAB WORK 
-THIS REPO IS CONTANING LAB WORK OF CLASS 
-
- 
+Name : Puneet Rastogi <br>
+Section : CSE 23 <br>
+Web Designing Lab Work <br>
+This repo is containing lab work of class
